@@ -14,7 +14,7 @@ The documents are shared as writing and research samples.
 **Focus:** Multimodal data integration for health applications  
 [PDF](https://github.com/Mjavan/Research-Proposals/blob/main/Proposal_MultiModal_Health.pdf)
 
-### [Title of Second Proposal]
+### Multimodal AgriTech Research Proposal
 **Author:** Masoumeh Javanbakhat  
 **Year:** 2025  
 **Purpose:** Postdoctoral Position  
