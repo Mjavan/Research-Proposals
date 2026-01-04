@@ -19,4 +19,4 @@ The documents are shared as writing and research samples.
 **Year:** 2025  
 **Purpose:** Postdoctoral Position  
 **Focus:** Multimodal data integration for Bioeconomy  
-[PDF]()
+[PDF](https://github.com/Mjavan/Research-Proposals/blob/main/Proposal_MultiModal_AgriTech.pdf)
