@@ -12,7 +12,7 @@ The documents are shared as writing and research samples.
 **Year:** 2025  
 **Purpose:** Fellowship of Charite for AI in health  
 **Focus:** Multimodal data integration for health applications  
-[PDF](https://raw.githubusercontent.com/Mjavan/Research-Proposals/main/2024_Multimodal_Health_Research_Proposal_Javanbakhat.pdf)
+[PDF](https://github.com/Mjavan/Research-Proposals/blob/main/Proposal_MultiModal_Health.pdf)
 
 ### [Title of Second Proposal]
 **Author:** Masoumeh Javanbakhat  
